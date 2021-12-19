@@ -2,7 +2,7 @@
 
 This project includes basic functions for **MySQL** databases using **PDO**. It aims to perform database queries with writing ***zero SQL Queries***.
 
-The project is inspired by [BasicDB](https://github.com/tayfunerbilen/basicdb).
+The project is inspired from [BasicDB](https://github.com/tayfunerbilen/basicdb).
 
 ## Installation
 
